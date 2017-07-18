@@ -1,3 +1,6 @@
 wind
 sun
 rain
+Creating a new branch is quick AND simple.
+
+var a = 12;
